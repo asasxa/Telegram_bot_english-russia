@@ -1,0 +1,999 @@
+{
+    "users": [
+        {
+            "user_id": 9999999999,
+            "username": "9999999999"
+        }
+    ],
+    "words": [
+        {
+            "word_id": 1,
+            "word_ru": "Собака",
+            "word_en": "Dog"
+        },
+        {
+            "word_id": 2,
+            "word_ru": "Кошка",
+            "word_en": "Cat"
+        },
+        {
+            "word_id": 3,
+            "word_ru": "Дом",
+            "word_en": "House"
+        },
+        {
+            "word_id": 4,
+            "word_ru": "Машина",
+            "word_en": "Car"
+        },
+        {
+            "word_id": 5,
+            "word_ru": "Книга",
+            "word_en": "Book"
+        },
+        {
+            "word_id": 6,
+            "word_ru": "Стол",
+            "word_en": "Table"
+        },
+        {
+            "word_id": 7,
+            "word_ru": "Стул",
+            "word_en": "Chair"
+        },
+        {
+            "word_id": 8,
+            "word_ru": "Башня",
+            "word_en": "Tower"
+        },
+        {
+            "word_id": 9,
+            "word_ru": "Дерево",
+            "word_en": "Tree"
+        },
+        {
+            "word_id": 10,
+            "word_ru": "Цветок",
+            "word_en": "Flower"
+        },
+        {
+            "word_id": 11,
+            "word_ru": "Река",
+            "word_en": "River"
+        },
+        {
+            "word_id": 12,
+            "word_ru": "Море",
+            "word_en": "Sea"
+        },
+        {
+            "word_id": 13,
+            "word_ru": "Гора",
+            "word_en": "Mountain"
+        },
+        {
+            "word_id": 14,
+            "word_ru": "Небо",
+            "word_en": "Sky"
+        },
+        {
+            "word_id": 15,
+            "word_ru": "Свет",
+            "word_en": "Light"
+        },
+        {
+            "word_id": 16,
+            "word_ru": "Тень",
+            "word_en": "Shadow"
+        },
+        {
+            "word_id": 17,
+            "word_ru": "Птица",
+            "word_en": "Bird"
+        },
+        {
+            "word_id": 18,
+            "word_ru": "Рыба",
+            "word_en": "Fish"
+        },
+        {
+            "word_id": 19,
+            "word_ru": "Лев",
+            "word_en": "Lion"
+        },
+        {
+            "word_id": 20,
+            "word_ru": "Тигр",
+            "word_en": "Tiger"
+        },
+        {
+            "word_id": 21,
+            "word_ru": "Кролик",
+            "word_en": "Rabbit"
+        },
+        {
+            "word_id": 22,
+            "word_ru": "Медведь",
+            "word_en": "Bear"
+        },
+        {
+            "word_id": 23,
+            "word_ru": "Лось",
+            "word_en": "Moose"
+        },
+        {
+            "word_id": 24,
+            "word_ru": "Слон",
+            "word_en": "Elephant"
+        },
+        {
+            "word_id": 25,
+            "word_ru": "Жираф",
+            "word_en": "Giraffe"
+        },
+        {
+            "word_id": 26,
+            "word_ru": "Курица",
+            "word_en": "Chicken"
+        },
+        {
+            "word_id": 27,
+            "word_ru": "Утка",
+            "word_en": "Duck"
+        },
+        {
+            "word_id": 28,
+            "word_ru": "Гусь",
+            "word_en": "Goose"
+        },
+        {
+            "word_id": 29,
+            "word_ru": "Свинья",
+            "word_en": "Pig"
+        },
+        {
+            "word_id": 30,
+            "word_ru": "Корова",
+            "word_en": "Cow"
+        },
+        {
+            "word_id": 31,
+            "word_ru": "Овца",
+            "word_en": "Sheep"
+        },
+        {
+            "word_id": 32,
+            "word_ru": "Коза",
+            "word_en": "Goat"
+        },
+        {
+            "word_id": 33,
+            "word_ru": "Лошадь",
+            "word_en": "Horse"
+        },
+        {
+            "word_id": 34,
+            "word_ru": "Волк",
+            "word_en": "Wolf"
+        },
+        {
+            "word_id": 35,
+            "word_ru": "Лиса",
+            "word_en": "Fox"
+        },
+        {
+            "word_id": 36,
+            "word_ru": "Заяц",
+            "word_en": "Hare"
+        },
+        {
+            "word_id": 37,
+            "word_ru": "Носорог",
+            "word_en": "Rhinoceros"
+        },
+        {
+            "word_id": 38,
+            "word_ru": "Крокодил",
+            "word_en": "Crocodile"
+        },
+        {
+            "word_id": 39,
+            "word_ru": "Ящерица",
+            "word_en": "Lizard"
+        },
+        {
+            "word_id": 40,
+            "word_ru": "Дельфин",
+            "word_en": "Dolphin"
+        },
+        {
+            "word_id": 41,
+            "word_ru": "Семя",
+            "word_en": "Seed"
+        },
+        {
+            "word_id": 42,
+            "word_ru": "Плод",
+            "word_en": "Fruit"
+        },
+        {
+            "word_id": 43,
+            "word_ru": "Овощ",
+            "word_en": "Vegetable"
+        },
+        {
+            "word_id": 44,
+            "word_ru": "Целлофан",
+            "word_en": "Plastic"
+        },
+        {
+            "word_id": 45,
+            "word_ru": "Металл",
+            "word_en": "Metal"
+        },
+        {
+            "word_id": 46,
+            "word_ru": "Дерево",
+            "word_en": "Wood"
+        },
+        {
+            "word_id": 47,
+            "word_ru": "Стекло",
+            "word_en": "Glass"
+        },
+        {
+            "word_id": 48,
+            "word_ru": "Рынок",
+            "word_en": "Market"
+        },
+        {
+            "word_id": 49,
+            "word_ru": "Школа",
+            "word_en": "School"
+        },
+        {
+            "word_id": 50,
+            "word_ru": "Университет",
+            "word_en": "University"
+        },
+        {
+            "word_id": 51,
+            "word_ru": "Больница",
+            "word_en": "Hospital"
+        },
+        {
+            "word_id": 52,
+            "word_ru": "Работа",
+            "word_en": "Job"
+        },
+        {
+            "word_id": 53,
+            "word_ru": "Компьютер",
+            "word_en": "Computer"
+        },
+        {
+            "word_id": 54,
+            "word_ru": "Телефон",
+            "word_en": "Phone"
+        },
+        {
+            "word_id": 55,
+            "word_ru": "Таблетка",
+            "word_en": "Tablet"
+        },
+        {
+            "word_id": 56,
+            "word_ru": "Камера",
+            "word_en": "Camera"
+        },
+        {
+            "word_id": 57,
+            "word_ru": "Телевизор",
+            "word_en": "Television"
+        },
+        {
+            "word_id": 58,
+            "word_ru": "Пол",
+            "word_en": "Floor"
+        },
+        {
+            "word_id": 59,
+            "word_ru": "Потолок",
+            "word_en": "Ceiling"
+        },
+        {
+            "word_id": 60,
+            "word_ru": "Дверь",
+            "word_en": "Door"
+        },
+        {
+            "word_id": 61,
+            "word_ru": "Окно",
+            "word_en": "Window"
+        },
+        {
+            "word_id": 62,
+            "word_ru": "Лестница",
+            "word_en": "Stairs"
+        },
+        {
+            "word_id": 63,
+            "word_ru": "Ключ",
+            "word_en": "Key"
+        },
+        {
+            "word_id": 64,
+            "word_ru": "Замок",
+            "word_en": "Lock"
+        },
+        {
+            "word_id": 65,
+            "word_ru": "Ручка",
+            "word_en": "Handle"
+        },
+        {
+            "word_id": 66,
+            "word_ru": "Ковёр",
+            "word_en": "Carpet"
+        },
+        {
+            "word_id": 67,
+            "word_ru": "Картина",
+            "word_en": "Painting"
+        },
+        {
+            "word_id": 68,
+            "word_ru": "Форма",
+            "word_en": "Shape"
+        },
+        {
+            "word_id": 69,
+            "word_ru": "Цвет",
+            "word_en": "Color"
+        },
+        {
+            "word_id": 70,
+            "word_ru": "Звук",
+            "word_en": "Sound"
+        },
+        {
+            "word_id": 71,
+            "word_ru": "Музыка",
+            "word_en": "Music"
+        },
+        {
+            "word_id": 72,
+            "word_ru": "Песня",
+            "word_en": "Song"
+        },
+        {
+            "word_id": 73,
+            "word_ru": "Танец",
+            "word_en": "Dance"
+        },
+        {
+            "word_id": 74,
+            "word_ru": "Спорт",
+            "word_en": "Sport"
+        },
+        {
+            "word_id": 75,
+            "word_ru": "Игра",
+            "word_en": "Game"
+        },
+        {
+            "word_id": 76,
+            "word_ru": "Кино",
+            "word_en": "Cinema"
+        },
+        {
+            "word_id": 77,
+            "word_ru": "Театр",
+            "word_en": "Theatre"
+        },
+        {
+            "word_id": 78,
+            "word_ru": "Опера",
+            "word_en": "Opera"
+        },
+        {
+            "word_id": 79,
+            "word_ru": "Литература",
+            "word_en": "Literature"
+        },
+        {
+            "word_id": 80,
+            "word_ru": "Фантастика",
+            "word_en": "Fantasy"
+        },
+        {
+            "word_id": 81,
+            "word_ru": "Монстр",
+            "word_en": "Monster"
+        },
+        {
+            "word_id": 82,
+            "word_ru": "Сказка",
+            "word_en": "Fairy tale"
+        },
+        {
+            "word_id": 83,
+            "word_ru": "Наука",
+            "word_en": "Science"
+        },
+        {
+            "word_id": 84,
+            "word_ru": "Технология",
+            "word_en": "Technology"
+        },
+        {
+            "word_id": 85,
+            "word_ru": "Философия",
+            "word_en": "Philosophy"
+        },
+        {
+            "word_id": 86,
+            "word_ru": "История",
+            "word_en": "History"
+        },
+        {
+            "word_id": 87,
+            "word_ru": "География",
+            "word_en": "Geography"
+        },
+        {
+            "word_id": 88,
+            "word_ru": "Экономика",
+            "word_en": "Economics"
+        },
+        {
+            "word_id": 89,
+            "word_ru": "Политика",
+            "word_en": "Politics"
+        },
+        {
+            "word_id": 90,
+            "word_ru": "Социология",
+            "word_en": "Sociology"
+        },
+        {
+            "word_id": 91,
+            "word_ru": "Культура",
+            "word_en": "Culture"
+        },
+        {
+            "word_id": 92,
+            "word_ru": "Экология",
+            "word_en": "Ecology"
+        },
+        {
+            "word_id": 93,
+            "word_ru": "Психология",
+            "word_en": "Psychology"
+        },
+        {
+            "word_id": 94,
+            "word_ru": "Биология",
+            "word_en": "Biology"
+        },
+        {
+            "word_id": 95,
+            "word_ru": "Физика",
+            "word_en": "Physics"
+        },
+        {
+            "word_id": 96,
+            "word_ru": "Химия",
+            "word_en": "Chemistry"
+        },
+        {
+            "word_id": 97,
+            "word_ru": "Астрономия",
+            "word_en": "Astronomy"
+        },
+        {
+            "word_id": 98,
+            "word_ru": "Генетика",
+            "word_en": "Genetics"
+        },
+        {
+            "word_id": 99,
+            "word_ru": "Медцина",
+            "word_en": "Medicine"
+        },
+        {
+            "word_id": 100,
+            "word_ru": "Здоровье",
+            "word_en": "Health"
+        }
+    ],
+    "user_words": [
+        {
+            "user_id": 9999999999,
+            "word_id": 1
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 2
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 3
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 4
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 5
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 6
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 7
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 8
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 9
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 10
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 11
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 12
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 13
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 14
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 15
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 16
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 17
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 18
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 19
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 20
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 21
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 22
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 23
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 24
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 25
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 26
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 27
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 28
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 29
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 30
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 31
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 32
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 33
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 34
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 35
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 36
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 37
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 38
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 39
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 40
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 41
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 42
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 43
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 44
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 45
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 46
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 47
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 48
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 49
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 50
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 51
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 52
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 53
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 54
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 55
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 56
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 57
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 58
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 59
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 60
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 61
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 62
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 63
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 64
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 65
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 66
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 67
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 68
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 69
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 70
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 71
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 72
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 73
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 74
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 75
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 76
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 77
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 78
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 79
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 80
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 81
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 82
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 83
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 84
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 85
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 86
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 87
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 88
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 89
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 90
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 91
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 92
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 93
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 94
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 95
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 96
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 97
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 98
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 99
+        },
+        {
+            "user_id": 9999999999,
+            "word_id": 100
+        }
+    ],
+    "user_activities": [
+        {
+            "user_id": 9999999999,
+            "activity_type": "Леарнинг: вопрос о переводе",
+            "activity_datetime": "2024-12-11 16:11:02.005068"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Леарнинг: вопрос о переводе",
+            "activity_datetime": "2024-12-11 16:11:02.076651"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: неправильный ответ",
+            "activity_datetime": "2024-12-11 16:11:08.445591"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: правильный ответ",
+            "activity_datetime": "2024-12-11 16:11:08.481639"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: неправильный ответ",
+            "activity_datetime": "2024-12-11 16:11:21.338587"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: неправильный ответ",
+            "activity_datetime": "2024-12-11 16:11:21.365470"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: неправильный ответ",
+            "activity_datetime": "2024-12-11 16:11:32.191638"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: правильный ответ",
+            "activity_datetime": "2024-12-11 16:11:32.223159"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: неправильный ответ",
+            "activity_datetime": "2024-12-11 16:11:35.441593"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: неправильный ответ",
+            "activity_datetime": "2024-12-11 16:11:35.471696"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Леарнинг: вопрос о переводе",
+            "activity_datetime": "2024-12-11 16:12:13.939781"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: правильный ответ",
+            "activity_datetime": "2024-12-11 16:12:16.933361"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: правильный ответ",
+            "activity_datetime": "2024-12-11 16:12:24.462905"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: правильный ответ",
+            "activity_datetime": "2024-12-11 16:12:29.546832"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: правильный ответ",
+            "activity_datetime": "2024-12-11 16:12:34.121794"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: правильный ответ",
+            "activity_datetime": "2024-12-11 16:12:35.660843"
+        },
+        {
+            "user_id": 9999999999,
+            "activity_type": "Обучение: неправильный ответ",
+            "activity_datetime": "2024-12-11 16:12:37.488189"
+        }
+    ]
+}
